@@ -1,0 +1,9 @@
+Space:32
+Two spaces:64
+Russian utf-8 'p': 337
+len of str w/ single 'р' char: 2
+'qwerty': 684
+coins present:
+50,10,5,2,1
+related count needed to get 98 summary:
+1,4,1,1,1
